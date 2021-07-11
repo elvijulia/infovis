@@ -1,0 +1,21 @@
+Stacked Graphs
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+Q-Q Plots
+Parallel Coordinates
+Flow Maps
+Graduated Symbol Maps
+Cartograms
+Node-link Diagrams
+dendrogram 
+indented tree
+Adjacency Diagrams
+sunburst layout
+Enclosure Diagrams
+circle-packing layout,
+Force-directed Layouts
+Arc Diagrams
+seriation 
+community-detection algorithm
+
